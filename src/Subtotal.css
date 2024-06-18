@@ -1,0 +1,22 @@
+.subtotal{
+background-color: #f3f3f3;
+padding: 20px;
+width: 250px;
+border: 1px solid #dddddd;
+border-radius: 3px;
+}
+.subtotal p{
+    margin-bottom: 10px;
+}
+.subtotal input{
+    margin-right: 5px;
+}
+.subtotal > button{
+    background-color:#ff9f00 ;
+    border: 1px solid #a88734;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 15px;
+    color: #111;
+    width: 100%;
+}

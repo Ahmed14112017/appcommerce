@@ -1,0 +1,26 @@
+.Checkoutproduct{
+    display: flex;
+    margin: 40px 0px 0px 35px;
+}
+.Checkoutproduct img{
+    width: 100px;
+    object-fit: contain;
+    height: 100px;
+
+}
+.Checkoutproduct-info{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.btn-basket{
+    background-color:#ff9f00 ;
+    border: 1px solid #a88734;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 15px;
+    color: #111;
+}
+.StarIcon{
+    color: rgb(250, 184, 3);
+}
